@@ -1,4 +1,4 @@
-# Gaussian Elimination
+![image](https://github.com/franklinraj/Gaussian/assets/148993740/1bdd46dd-2c7e-4ef9-a306-a5395c53952a)# Gaussian Elimination
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
@@ -47,7 +47,9 @@ for i in range(n):
 ```
 
 ## Output:
-![Screenshot 2023-12-21 144709](https://github.com/franklinraj/Gaussian/assets/148993740/d2ee0974-4fbb-4f73-afb2-de2787f437f4)
+![Screenshot 2023-12-21 152358](https://github.com/franklinraj/Gaussian/assets/148993740/76712a5a-4938-48ed-90e5-5457d564a63d)
+
+
 
 
 
