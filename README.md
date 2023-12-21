@@ -7,10 +7,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.start the program
-2.use numpy and sys packages 
-3.use nested loops to loop through each row and column 
-4.end the program 
+1. start the program
+2. use numpy and sys packages 
+3. use nested loops to loop through each row and column 
+4. end the program 
 
 ## Program:
 ```
